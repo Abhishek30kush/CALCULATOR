@@ -14,14 +14,7 @@ button:hover{
   color:green;
 }
 
-label{
-  text-align: center;
-  font-size: large;
-  font-weight: 30px;
-  font-family: 'Courier New', Courier, monospace;
-  
 
-}
 #input{
   margin-left:500px;
   padding-left:20px;
