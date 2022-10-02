@@ -1,0 +1,50 @@
+*{
+  background-color: black;
+  color:cyan;
+}
+button{
+background-color: green;
+color:white;
+border-radius: 5px;
+padding:10px;
+}
+
+button:hover{
+  background-color: white;
+  color:green;
+}
+
+label{
+  text-align: center;
+  font-size: large;
+  font-weight: 30px;
+  font-family: 'Courier New', Courier, monospace;
+  
+
+}
+#input{
+  margin-left:500px;
+  padding-left:20px;
+  padding-right:20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-color: aliceblue;
+  border-radius: 10px;
+  text-align: right;
+}
+
+.flex{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  margin-left: 100px;
+  margin-right: 200px;
+}
+
+.flex>button{
+  margin:10px;
+  padding:20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  ;
+  font-weight: bold;
+}
+
